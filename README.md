@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Hello GitHub Actions
+# Commit any change to your branch, such as adding an emoji to your README.md file
 
 _Create a GitHub Action and use it in a workflow._
 
